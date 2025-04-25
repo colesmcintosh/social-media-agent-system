@@ -65,7 +65,6 @@ The script will:
 ## Project Structure
 
 - `main.py` - Main script containing the agent setup and execution logic
-- `agents.py` - Contains the agent classes and tools (not included in repo)
 - `result.md` - Output file containing the generated content
 - Generated images are saved in the root directory
 
