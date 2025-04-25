@@ -1,4 +1,4 @@
-# Social Media Content Agent
+# Social Media Content Agent System
 
 A sophisticated multi-agent system that combines specialized AI agents to create engaging social media content. The system leverages a Research Agent for gathering accurate, up-to-date information and a Social Media Agent for crafting compelling posts with AI-generated visuals.
 
@@ -24,7 +24,7 @@ The system employs a hierarchical multi-agent approach:
    - Generates relevant hashtags for better reach
    - Creates matching images using AI
    - Ensures content aligns with platform best practices
-   
+
 ## Prerequisites
 
 - Python 3.9+
